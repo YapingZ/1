@@ -28,15 +28,11 @@
 
 ###          可视化截图：
 
-![屏幕快照 2020-10-07 上午10.37.49](/Users/zhu/Desktop/屏幕快照 2020-10-07 上午10.37.49.png)
 
+![image](https://github.com/YapingZ/Disaster-Resposne-Project/blob/master/images/1.png)
+![image](https://github.com/YapingZ/Disaster-Resposne-Project/blob/master/images/2.png)
+![image](https://github.com/YapingZ/Disaster-Resposne-Project/blob/master/images/3.png)
 
-
-
-
-![屏幕快照 2020-10-07 上午10.40.43](/Users/zhu/Desktop/屏幕快照 2020-10-07 上午10.40.43.png)
-
-![屏幕快照 2020-10-07 上午10.41.56](/Users/zhu/Desktop/屏幕快照 2020-10-07 上午10.41.56.png) 
 
 
 
